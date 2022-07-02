@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#increment-btn{
+    background-color: darkred;
+    height: 70px;
+    width: 100px;
+}
+
+#save-btn{
+    background-color: green;
+    height: 70px;
+    width: 100px;
+}
